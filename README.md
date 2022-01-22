@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Constanza Ramírez Poisot 
+- Me gustan los gatos
+- Me gusta tejer peluches
+- Me gusta escuchar música
