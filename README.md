@@ -31,7 +31,10 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 
-
+#ILIANA ALARCON
+- LEER 📗
+- Nadar 🤿
+- Aorender cosas nuevas 👀
 
 
 
