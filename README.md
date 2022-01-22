@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Diana Magaña
+- Me gusta ver anime
+- Salir con mis amigos
+- Jugar videojuegos 
