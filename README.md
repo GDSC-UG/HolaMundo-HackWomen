@@ -29,3 +29,11 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+- Ver series 
+
+* Carolina Lara
+- Me gusta leer 📕
+- Tocar guitarra 🎸
+- Tomar fotografías 📸
+- ***Gracias por la mentoría Jesús✨***
+
