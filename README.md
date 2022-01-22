@@ -24,3 +24,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+* Mónica Jiménez
+-Leer ciencia ficción
+-Editar videos
+-Ver series y películas
