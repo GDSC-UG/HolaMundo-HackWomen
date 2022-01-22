@@ -11,7 +11,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 | Nombre                                  | Actividad Laboral/Academica                                          |
 | -----------------------------------     |:--------------------------------------------------------------------:|
 | _Jesús Armando López García_            | Instructor/Google DSC Lead /Data Intelligence Manager                |
-
+| _Viridiana Juárez Quintero_             | Estudiante de doctorado/Hackwoman                                    |
 
 ## Aliados
 
@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Viridiana Juárez Quintero
+- Me gusta observar aves 🐦
+- Aprender python 🐍
+- Los mixis 🐈
