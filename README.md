@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Gabriela Ureña C.
+- Me gustan las bases de datos 😄
+- Tocar guitarra 🎸
+- Pasear a mi perrito 🐶
