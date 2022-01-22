@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Rocio Xicohténcatl Reza
+- Me interesa el lenguaje: idiomas, programación, lógica.
+- Mi artista favorito es Bob Dylan.
+- No aprendí cómo poner emojis. :(
