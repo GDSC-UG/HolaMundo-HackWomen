@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+##### Gabriela Díaz (Noni)
+- Me gusta la ciencia y tecnología.
+- Me gustan los chilaquiles.
+- Me gusta aprender.
