@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Lupita Ramírez
+- Me gusta la historia del arte
+- Estar con mis hijos
+- Tener amigos 
