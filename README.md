@@ -25,7 +25,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 - Ver series 
 
-Davna López
+* Davna López
 - Me gusta leer
 - Ver películas
 - La naturaleza
