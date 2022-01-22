@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Yazmin Ochoa
+- Me gusta la jardinería 🌻
+- Salir a caminar con mi perro 🐶
+- Bailar 💃
