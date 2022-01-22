@@ -31,4 +31,4 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 * Semiramis de la Cruz
-- Me gustan los gatos
+- Me gustan los gatos 🐱
