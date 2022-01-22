@@ -32,9 +32,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 
 *ILIANA ALARCÒN
-- LEER 📗
+- Leer 📗
 - Nadar 🤿
-- Aorender cosas nuevas 👀
+- Aprender cosas nuevas 👀
 
 
 
