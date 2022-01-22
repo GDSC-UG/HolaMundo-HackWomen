@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Gabriela Gómez
+- Me gusta la programación competitiva
+- Las palomitas
+- Ver kdramas
