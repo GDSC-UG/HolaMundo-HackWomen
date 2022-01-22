@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Ariadna Moreno (AryLovno)
+- Me gusta andar en bici 🚲
+- Preparar y tomar café ☕
+- Tomar el sol por que siempre tengo frío 🙊
