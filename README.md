@@ -24,3 +24,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+* Alicia Noriega
+- Me gusta aprender cosas nuevas
+- Hacer ejercicio
+- Y los gatos  
