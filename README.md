@@ -29,3 +29,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Karla Córdova
+- Me gusta leer📖
+- Ayudar a los animales 🐱
+- Escuchar música 🎧
+
