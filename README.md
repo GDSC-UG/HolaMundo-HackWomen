@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Salma Guevara
+- Me gusta jugar con mis perros 🐶🐶🐶
+- Ver películas de suspenso 👻😱
+- Nadar 🏊‍♀️🏊‍♀️
