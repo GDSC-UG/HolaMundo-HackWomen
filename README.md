@@ -24,3 +24,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+ * Claudia Ramirez
+- Me gusta jugar league of legends
+- Aprender cosas nuevas
+- Leer libros de ciencia ficcion 
