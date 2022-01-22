@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Karla Córdova
+- Me gusta leer📖
+- Ayudar a los animales 🐱
+- Escuchar música 🎧
