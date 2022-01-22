@@ -24,3 +24,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+* Jele Ramírez 😊
+- Me gusta la electrónica 💁‍♀️
+- Bailar ritmos urbanos 💃
+- Jugar con lomitos 🐶
