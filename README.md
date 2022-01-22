@@ -29,3 +29,10 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+- Ver series 
+
+##### Gabriela Díaz (Noni)
+- Me gusta la ciencia y tecnología.
+- Me gustan los chilaquiles.
+- Me gusta aprender.
+
