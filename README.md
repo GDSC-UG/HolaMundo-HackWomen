@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+*Ines Trinidad
+-me gusta ir a conciertos🎫
+-Me gusta leer novelas 📕📖
+-Me gusta cocinar🍝🥘
