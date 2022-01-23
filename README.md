@@ -32,6 +32,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 
 * Jennifer Reynaga💖
--Salir a correr
--Escuchar música💚
--Tomar fotos
+- Salir a correr
+- Escuchar música💚
+- Tomar fotos
