@@ -25,7 +25,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr 💻
 - Ver series 👌
 
-* Juan Perez
-- El cine
-- Leer
-- Salir a correr
+* Sunnyvile
+- Me gusta jugar Halo Infinite😊😊
+- Los perritos🐶🐶🐶
+- Ver series😁
