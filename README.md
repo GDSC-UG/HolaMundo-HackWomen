@@ -31,6 +31,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 * Andrea Colunga
--Me gusta aprender SFWT
--Tengo 2 perritos
--Me gusta homedecor 
+* -Me gusta aprender SFWT
+* -Tengo 2 perritos
+* -Me gusta homedecor 
