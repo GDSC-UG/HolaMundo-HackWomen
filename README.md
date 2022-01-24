@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Irma López
+- Me gusta estudiar bioinformática 🧬💻
+- Ver series 💻
+- Cuidar plantas 🥀🌻🌷
