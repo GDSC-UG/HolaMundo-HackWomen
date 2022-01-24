@@ -29,3 +29,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+*Soy Kary Rodriguez
+- Quiero ser mobile developer 
+- Me gusta jugar voleibol y viajar 
