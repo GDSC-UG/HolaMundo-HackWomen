@@ -22,10 +22,15 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 * Jesús López 
 - Me gusta programar en python 🐍
-- Salir a correr 💻
+- Salir a correr 💻 
 - Ver series 👌
 
 * Juan Perez
 - El cine
 - Leer
 - Salir a correr
+
+* Monty
+- Jugar tenis
+- Leer
+- Ejercicio
