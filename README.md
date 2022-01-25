@@ -31,6 +31,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Salir a correr
 
 * Andrea Montserrat Soto Gómez
--Mi novio
+-Comer
 -Batman
 -Los autos 
