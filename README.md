@@ -21,6 +21,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ## Asistentes y tres cosas que te gusten
 
 * Andrea Montserrat Soto Gómez
-- Comer
-- Batman
-- Los autos 
+- Comer🍕🍔🍟🌭🍿🥓🥨🥐🥞🧇🥟🍠🥩🍗🍖🥧🍙🍘🍤🍝🎂🎂
+- Hombre murciélago🦇
+- Los autos 🚗
