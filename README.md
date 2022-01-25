@@ -28,4 +28,4 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 * Juan Perez
 - El cine
 - Leer
-- Salir a correr
+- Salir a correr👣
