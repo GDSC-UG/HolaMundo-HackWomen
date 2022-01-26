@@ -30,7 +30,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Leer
 - Salir a correr
 
-###Belén Arteaga###
+### Belén Arteaga
 - Leer autoras latinoamericanas 📚
 - Hacer radio ✍️🎙️
 - cocinar 😍
