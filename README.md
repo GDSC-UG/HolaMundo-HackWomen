@@ -29,4 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
-😊✨
+
+* Aura Segoviano
+- Me gusta aprender📚
+- El chocolate🍫
+- Jugar con mi perro🐶
