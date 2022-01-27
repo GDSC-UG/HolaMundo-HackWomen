@@ -30,7 +30,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Leer
 - Salir a correr
 
-*Andrea Lucero Hernandez Herrera
--Hacer senderismo 🧗🏻‍♀️
--Escuchar música 🎧
--Tocar el piano 🎹
+* Andrea Lucero Hernandez Herrera
+- Hacer senderismo 🧗🏻‍♀️
+- Escuchar música 🎧
+- Tocar el piano 🎹
