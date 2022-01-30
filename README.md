@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Amaranta de la Rosa
+- Me gustan las siestas
+- Mi gato
+- Ver peliculas 
