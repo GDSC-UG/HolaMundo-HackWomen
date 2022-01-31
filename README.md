@@ -24,7 +24,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series
-* Diana Jardon
+* Diana Jardon ✨
 - Me gusta estudiar programacion jiji
 - Me gusta ver series
 - Me gusta leer poesia 
