@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Dulce Evelyn Mata Trejo
+- Me gusta escribir textos literarios 📚
+- Me gusta ver el cielo y las estrellas 👓💫
+- Me gusta correr en el bosque 💖
