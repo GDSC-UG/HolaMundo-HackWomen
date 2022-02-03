@@ -32,5 +32,5 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 * Dalia Garcia
 - Me gustan los helados de vainilla
-- Me gusta conocer explorar lugares nuevos en bicicleta
-- Tomar fotogracias de esos lugares 
+- Me gusta explorar lugares nuevos en bicicleta
+- Tomar fotografias de esos lugares 
