@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Dalia Garcia
+- Me gustan los helados de vainilla
+- Me gusta explorar lugares nuevos en bicicleta
+- Tomar fotografias de esos lugares 
