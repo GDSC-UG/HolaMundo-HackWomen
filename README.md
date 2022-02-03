@@ -29,3 +29,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Rosa Jiménez
+- Me gusta programar 👩🏻‍💻
+- Jugar con mis bebés ✨👦🏻👦🏻
+- Ver series de suspenso 🎬📽
+- Cocinar en ocaciones especiales 👩🏻‍🍳
