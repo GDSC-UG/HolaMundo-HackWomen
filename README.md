@@ -30,4 +30,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Leer
 - Salir a correr
 
--🐈🐱‍👤🐱‍🏍🐱‍💻🐱‍🐉🐱‍👓🐱‍🚀
+
+* 🐈🐱‍👤🐱‍🏍🐱‍💻🐱‍🐉🐱‍👓🐱‍🚀
+* Samantha P
+- Peliculas de terror
+- Pixel Art
+- Ciencia Ficcion 
