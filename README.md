@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+*Andrea Villavicencio 
+1. Hacer ejercicio 
+2. Viajar✈
+3. Probar chilaquiles 
