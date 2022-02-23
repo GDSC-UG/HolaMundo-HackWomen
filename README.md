@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Nadia Sánchez Ramos
+- Me gusta leer y el cine 
+- Me encanta la música
+- Me gustan los animales y la botánica.
