@@ -29,3 +29,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+
+* Verónica Hernándezm
+- Me gusta caminar en la naturaleza 🌳
+- Me gusta ver películas, documentales de la naturaleza 🌸
+- Me gusta ir al cine y teatro 😃
