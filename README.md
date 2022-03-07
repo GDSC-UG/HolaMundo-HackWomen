@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+* Paz Anaya
+- Me gusta aprender con Hackacademy
+- ir a la playa con mi familia😎
+- Correr 👣
