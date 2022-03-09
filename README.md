@@ -24,3 +24,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta programar en python
 - Salir a correr
 - Ver series 
+
+## Padawans
+* Paola Pérez ♀️
+* Tengo 34 años 😲
+* Soy de Tulancingo, Hgo. 💠
+* Me gusta ver series animadas 📺
