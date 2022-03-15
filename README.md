@@ -35,4 +35,6 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - Me gusta caminar
 - Descubrir nueva música
 - Aprender cosas nuevas
+- También me gusta ver películas, pero no de terror
+- Y me gusta cocinar aveces
 
